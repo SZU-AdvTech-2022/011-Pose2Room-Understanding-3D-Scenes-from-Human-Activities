@@ -1,0 +1,7 @@
+@inproceedings{REPO-011,
+    author = "Nie, Yinyu and Dai, Angela and Han, Xiaoguang and Nie{\ss}ner, Matthias",
+    booktitle = "Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXVII",
+    pages = "425--443",
+    title = "{Pose2Room: Understanding 3D Scenes from Human Activities}",
+    year = "2022"
+}
